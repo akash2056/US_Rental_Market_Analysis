@@ -38,7 +38,7 @@ This project analyzes **99,105 US apartment listings** to uncover rental market 
 ---
 
 ## 🚀 **How to Use**
-1. Clone the repo:
+1. Clone the repo: https://github.com/akash2056/US_Rental_Market_Analysis.git
 2. Explore the `apartment_cleaned_data.csv` dataset.
 3. View Tableau dashboards (linked in `README`) or run Jupyter notebooks for preprocessing.
 
